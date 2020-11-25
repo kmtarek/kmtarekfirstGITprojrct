@@ -6,6 +6,8 @@ public class seleniummManualTest {
 		// TODO Auto-generated method stub
 
 	System.out.println("second github project");
+	
+	System.out.println("changes in second github project and collect URL");
 	}
 
 }
